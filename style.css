@@ -1,0 +1,21 @@
+body {
+    width: 600px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+ol {
+    background-color:#FF3333 ;
+    color: aliceblue;
+}
+p {
+    background-color: green;
+    color: aliceblue;
+}
+button {
+    background-color: azure;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div {
+    font-size: 26px;
+    font-weight: 700;
+}
