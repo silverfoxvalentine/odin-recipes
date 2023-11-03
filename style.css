@@ -1,21 +1,52 @@
 body {
     width: 600px;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    border: dotted 3px goldenrod;
+    padding: 10px 50px 20px;;
 }
 ol {
-    background-color:#FF3333 ;
+    background-color:green;
     color: aliceblue;
+    padding: 6px;
 }
 p {
-    background-color: green;
+    background-color: #FF3333;
     color: aliceblue;
+    padding: 8px;
 }
 button {
     background-color: azure;
     font-weight: 700;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: block;
+    margin: 0px auto 20px;
 }
-div {
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+text-align: center;
+color: goldenrod;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+ol li {
+    margin:1em 1em 1em 20px;
+
+}
+span {
     font-size: 26px;
     font-weight: 700;
+    margin: 4px;
+    color: goldenrod;
+    border: dotted 3px goldenrod;
+    padding: 8px;
+    
+}
+div {
+    text-align: center;
+    margin: 28px;
 }
